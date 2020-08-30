@@ -1,1 +1,7 @@
-//your code here
+import 
+
+class Comment extends React.Compoenent {
+  constructor() {
+    
+  }
+}
